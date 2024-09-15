@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://towesitu.github.io/sitemap.html.gz
+Sitemap: https://towesitu.github.io/app/sitemap.html.gz
+Sitemap: https://towesitu.github.io/assets/sitemap.html.gz
+Sitemap: https://towesitu.github.io/css/sitemap.html.gz
+Sitemap: https://towesitu.github.io/includes/sitemap.html.gz
+Sitemap: https://towesitu.github.io/item/sitemap.html.gz
+Sitemap: https://towesitu.github.io/src/sitemap.html.gz
